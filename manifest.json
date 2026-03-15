@@ -1,0 +1,10 @@
+
+{
+"name": "Queens",
+"short_name": "Queens",
+"start_url": "index.html",
+"display": "standalone",
+"background_color": "#111",
+"theme_color": "#6a0dad",
+"icons": []
+}
